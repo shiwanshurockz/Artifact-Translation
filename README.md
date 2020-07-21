@@ -27,4 +27,8 @@ India has 22 constitutionally recognised languages written in 13 different scrip
 ![Deep Learning Trends for Scene-Text Detection and Recognition](https://github.com/shiwanshurockz/Signboard-Translation-from-Vernacular-Languages/blob/master/Images/img2.jpg "Deep Learning Trends for Scene-Text Detection and Recognition")
 
 ## Final Result
+
+Sucessfully build this complete project where the user front end is written as an Android application, user upload the image from its Android device containing the text which is not understood by the user.
+When user click the upload button, image is uploaded to the server for further proccessing where all the above mentioned model is implemented. The server process the image then return back the same image which contains transliterated text in required language by the user.
+
 ![Gif of execution](https://github.com/shiwanshurockz/Signboard-Translation-from-Vernacular-Languages/blob/master/Images/gif.gif)
