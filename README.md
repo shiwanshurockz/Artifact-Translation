@@ -1,7 +1,7 @@
 # Signboard-Translation-from-Vernacular-Languages
 ##### [Click here for detailed description of Project](https://ai4bharat.org/articles/sign-board)
 
-## Problem Statement
+## About
 The goal of this project is to develop an App which translates the text written on a signboard to another language as desired by the user. The user will just point at the signboard using the camera of his/her phone and the App should then translate the text written on the signboard. We will first design a system which works for names (such as road names, city names, organisation names shop names etc.) which typically contain 1-2 words and are rarely longer than 4-5 words. We will cater to five languages in the first phase (i.e., the app can read and translate text from and to one of these five languages). In the next phase we will increase the number of languages to 15. Finally, in the last phase of the project, we will support translation of longer texts written on signboards, such as “Please do not throw garbage here”.
 
 ## Why this is relevant in the Indian context
@@ -42,7 +42,7 @@ When user click the upload button, image is uploaded to the server for further p
 ![Gif of execution](https://github.com/shiwanshurockz/Signboard-Translation-from-Vernacular-Languages/blob/master/Images/gif.gif )
 
 
-## File Heirarchy:
+## File Hierarchy:
 
 ```bash
 +---Android_app
