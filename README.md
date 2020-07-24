@@ -33,7 +33,7 @@ When user click the upload button, image is uploaded to the server for further p
 
 ## Test Image vs Output Result
 ##### Input Image :
-![Sample Image](https://github.com/shiwanshurockz/Signboard-Translation-from-Vernacular-Languages/blob/master/Images/smple_img.jpg )
+![Sample Image](https://github.com/shiwanshurockz/Signboard-Translation-from-Vernacular-Languages/blob/master/Images/Smple_img.jpg )
 ##### Output Image :
 ![Output](https://github.com/shiwanshurockz/Signboard-Translation-from-Vernacular-Languages/blob/master/Images/out.png )
 
