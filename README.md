@@ -52,6 +52,6 @@ When user click the upload button, image is uploaded to the server for further p
     +---model
 ```
 Android_app : Contains zip file of android application
-Images : Contains images of gif used in README.md
-Static : is used to save the output image from the server side
-Weights : Contains the weights of These model implemented (will be updated soon)
+Images : Contains images of gif used in README.md.
+Static : is used to save the output image from the server side.
+Weights : Contains the weight file link of these models implemented.
