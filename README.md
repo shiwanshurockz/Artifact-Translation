@@ -40,3 +40,18 @@ When user click the upload button, image is uploaded to the server for further p
 ## Sample Run :
 
 ![Gif of execution](https://github.com/shiwanshurockz/Signboard-Translation-from-Vernacular-Languages/blob/master/Images/gif.gif )
+
+
+## File Heirarchy:
+
+```bash
++---Android_app
++---Images
++---static
++---weights
+    +---model
+```
+Android_app : Contains zip file of android application
+Images : Contains images of gif used in README.md
+Static : is used to save the output image from the server side
+Weights : Contains the weights of These model implemented (will be updated soon)
