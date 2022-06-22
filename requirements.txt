@@ -5,5 +5,5 @@ tensorflow_gpu==1.13.1
 Keras==2.2.4
 torch==1.2.0
 matplotlib==3.0.3
-numpy==1.16.2
+numpy==1.22.0
 tensorflow==2.2.0
